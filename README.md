@@ -4,6 +4,7 @@
 
 #### Investigate it using NumPy and pandas.
 
+##### Files
 * titanic.ipynb - a jupyter notebook file you can download and open in jupyter notebook
 
 * titanic-data.csv - the original data
